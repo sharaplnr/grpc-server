@@ -1,1 +1,9 @@
+.pytest_cache/
 .idea/
+.DS_Store
+output/
+__pycache__/
+.venv
+.env
+pytest-dev.ini
+server.crt
