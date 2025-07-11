@@ -3,7 +3,7 @@
 import grpc
 import warnings
 
-import photocatalog_pb2 as photocatalog__pb2
+import internal.pb.photocatalog_pb2 as photocatalog__pb2
 
 GRPC_GENERATED_VERSION = '1.73.1'
 GRPC_VERSION = grpc.__version__
